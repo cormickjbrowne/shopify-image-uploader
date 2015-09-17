@@ -1,2 +1,6 @@
-//Conatins Shopify api credentials
+//Shopify api credentials
 config.json
+
+//Images to upload
+loader/input/*
+loader/output/*
